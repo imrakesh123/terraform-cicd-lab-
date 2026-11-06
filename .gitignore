@@ -1,0 +1,11 @@
+# Terraform working files
+.terraform/
+*.tfstate
+*.tfstate.*
+terraform.tfstate.d/
+tfplan
+crash.log
+ 
+# Files created by this lab
+output/
+
